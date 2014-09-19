@@ -1,0 +1,22 @@
+{
+  "name": "ggl",
+  "description": "A command-line based google search client.",
+  "version": "0.0.1",
+  "bin": {
+    "ggl": "index.js"
+  },
+  "dependencies": {
+    "colo": "~0.2.0",
+    "googleapis": "~1.0.13"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tatsuyaoiw/ggl.js.git"
+  },
+  "keywords": [
+    "google"
+  ],
+  "author": "Tatsuya Oiwa <tatsuyaoiw@gmail.com>",
+  "licence": "MIT"
+}
